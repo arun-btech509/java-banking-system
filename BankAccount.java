@@ -19,7 +19,7 @@ public class BankAccount {
             balance -= amount;
             System.out.println("Withdrawn: " + amount);
         } else {
-            System.out.println("Insufficient balance!");
+            System.out.println("Insufficient balance");
         }
     }
 
