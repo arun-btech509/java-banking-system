@@ -15,7 +15,7 @@ A simple and clean Banking System built using Core Java concepts. This project d
 ### 📂 How to Run
 1. Clone the repo: `git clone https://github.com/arun-btech509/java-banking-system`
 2. Compile: `javac BankAccount.java`
-3. Run: `java BankAccount`
+3. Run: java ATM
 
 ### 👨‍💻 Author
 Built by Arun | B.Tech Graduate | Aspiring Java Developer | Open to Opportunities
